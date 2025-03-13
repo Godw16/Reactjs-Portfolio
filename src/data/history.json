@@ -4,8 +4,6 @@
     "organisation": "LTIMINDTREE",
     "startDate": "July, 2022",
     "endDate": "Present",
-    "experiences": ["Developed and optimized scalable React.js components for an e-commerce platform, reducing development time by 20% and improving code efficiency by 25%, while integrating Redux and RESTful APIs for seamless state management and data accuracy.", 
-    "Enhanced user authentication and performance, implementing OAuth for a smoother login experience, increasing registrations by 20%, and conducting load testing with JMeter to ensure high performance during peak traffic."],
     "imageSrc": "history/LTIMindtree.png"
   },
   {
@@ -13,10 +11,7 @@
     "organisation": "LTIMINDTREE",
     "startDate": "Mar, 2022",
     "endDate": "May, 2022",
-    "experiences": [
-      "Developed a full-stack medical shop application using MERN Stack, implementing CRUD operations and optimizing development efficiency by 25%.",
-"Designed and built a dynamic, responsive UI with React.js, ensuring accessibility and enhancing user experience for both patients and administrators."
-    ],
     "imageSrc": "history/LTIMindtree.png"
   }
 ]
+

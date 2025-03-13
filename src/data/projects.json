@@ -2,7 +2,7 @@
   {
     "title": "Task-Manager",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "A React-based task management dashboard with Redux and MUI, enabling task creation, editing, filtering, and prioritization.",
     "skills": ["React", "Redux","MUI"],
     "demo": "https://daily-task-managing.vercel.app/",
     "source": "https://github.com/Godw16/task-manager-frontend"
@@ -10,7 +10,7 @@
   {
     "title": "Budget-Tracker",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "The Budget Tracker is a React app with Redux and MUI for tracking, categorizing, and visualizing finances efficiently.",
     "skills": ["React", "Redux", "MUI"],
     "demo": "https://budget-tracker-expense-income.vercel.app/",
     "source": "https://github.com/Godw16/budget-tracker"

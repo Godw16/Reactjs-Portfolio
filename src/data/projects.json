@@ -5,7 +5,7 @@
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Redux","MUI"],
     "demo": "https://daily-task-managing.vercel.app/",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Godw16/task-manager-frontend"
   },
   {
     "title": "Budget-Tracker",
@@ -13,14 +13,6 @@
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Redux", "MUI"],
     "demo": "https://budget-tracker-expense-income.vercel.app/",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Godw16/budget-tracker"
   }
 ]

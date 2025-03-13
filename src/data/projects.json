@@ -3,16 +3,16 @@
     "title": "Task-Manager",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Redux"],
+    "skills": ["React", "Redux","MUI"],
     "demo": "https://daily-task-managing.vercel.app/",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
+    "title": "Budget-Tracker",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
+    "skills": ["React", "Redux", "MUI"],
+    "demo": "https://budget-tracker-expense-income.vercel.app/",
     "source": "https://www.github.com"
   },
   {

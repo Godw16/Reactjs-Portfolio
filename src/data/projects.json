@@ -14,5 +14,13 @@
     "skills": ["React", "Redux", "MUI"],
     "demo": "https://budget-tracker-expense-income.vercel.app/",
     "source": "https://github.com/Godw16/budget-tracker"
+  },
+  {
+    "title": "Blog-Post",
+    "imageSrc": "projects/project.png",
+    "description": "The Blog Posting App is a MERN stack application with Redux and MUI for creating, managing, and displaying blog posts efficiently",
+    "skills": ["React", "Node.js", "MongoDB"],
+    "demo": "https://blog-post-one-pi.vercel.app/",
+    "source": "https://github.com/Godw16/blog-post"
   }
 ]
